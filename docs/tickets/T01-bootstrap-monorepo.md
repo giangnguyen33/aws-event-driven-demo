@@ -1,6 +1,6 @@
 # T01: Bootstrap Monorepo
 
-- Status: TODO
+- Status: DONE
 - Estimate: 1–2 engineering days
 - Prerequisites: None
 

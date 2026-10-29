@@ -1,0 +1,10 @@
+{
+  "name": "@aws-event-driven-demo/validation-worker",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "clean": "rm -rf dist"
+  }
+}
